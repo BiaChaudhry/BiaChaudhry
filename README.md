@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, C++, Java, SQL, JavaScript  
 - **Backend:** FastAPI, Node.js, Django  
 - **Data:** PostgreSQL, Kafka, Spark, Pandas  
 - **DevOps/Cloud:** Docker, Kubernetes, GitHub Actions, AWS, IBM DataStage, Talend, IBM Cognos
@@ -16,8 +16,8 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/biachaudhry1312/)  
-- Portfolio/Blog (if any): [Blog](https://medium.com/@biach1312)  
+- LinkedIn: [https://www.linkedin.com/in/biachaudhry1312/](https://www.linkedin.com/in/biachaudhry1312/)  
+- Portfolio/Blog (if any): [https://medium.com/@biach1312](https://medium.com/@biach1312)  
 
 ![Bia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biachaudhry&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biachaudhry&layout=compact&theme=tokyonight)
