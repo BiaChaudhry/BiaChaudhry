@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Bia
 
+
+![Bia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biachaudhry&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biachaudhry&layout=compact&theme=tokyonight)
+
+
 💻 Software Engineer | Data Enthusiast | Teradata Certified  
 🚀 Building modern backend systems, data pipelines, and AI-powered apps.  
 🌍 Exploring opportunities in the UK, USA, UAE & globally.  ( Remote and On-site )
@@ -18,6 +23,3 @@
 ## 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/biachaudhry1312/](https://www.linkedin.com/in/biachaudhry1312/)  
 - Portfolio/Blog (if any): [https://medium.com/@biach1312](https://medium.com/@biach1312)  
-
-![Bia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biachaudhry&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biachaudhry&layout=compact&theme=tokyonight)
