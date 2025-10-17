@@ -22,4 +22,4 @@
 
 ## 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/biachaudhry1312/](https://www.linkedin.com/in/biachaudhry1312/)  
-- Portfolio/Blog (if any): [https://medium.com/@biach1312](https://medium.com/@biach1312)  
+- Blog: [https://medium.com/@biach1312](https://medium.com/@biach1312)  
