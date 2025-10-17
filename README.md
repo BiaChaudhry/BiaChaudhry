@@ -7,7 +7,7 @@
 
 💻 Software Engineer | Data Enthusiast | Teradata Certified  
 🚀 Building modern backend systems, data pipelines, and AI-powered apps.  
-🌍 Exploring opportunities in the UK, USA, UAE & globally.  ( Remote and On-site )
+🌍 Always exploring opportunities in tech.  ( Remote and On-site )
 
 ---
 
